@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="sixty">#FFFFFFFF</color>
+    <color name="thirty">#000000</color>
+    <color name="ten">#F44336</color>
+
+    <color name="sixty_low">#D4D4D4</color>
+    <color name="thirty_low">#3B3B3B</color>
+    <color name="ten_low">#BD433F</color>
+
+</resources>
