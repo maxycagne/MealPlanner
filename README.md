@@ -5,7 +5,7 @@ MealPlanner is a mobile application developed by the our team for the Tagisan ng
 
 Our team built MealPlanner in 6 hours during an on-site hackathon held at the Computer Labratory of STI College Tarlac. Competitors were required to stay within the venue for the entire duration of the hackathon.
 
-To qualify for the Cluster Level, each team must first secure championships. Out of 12 teams in the STI College Tarlac, only 1 team earn the opportunity to compete in the next level.
+To qualify for the Cluster Level, each team must first secure championships. Out of 12 teams in the STI College Tarlac, only 1 team earn the opportunity to compete in the next Cluster Level.
 
 ### Developers
 
